@@ -5,7 +5,7 @@ This repository is just a storage location for archive purposes.
 
 MoonTree is a mobile wallet for Android and iPhone for Evrmore and Ravencoin.
 
-The gihub repository for the MoonTree project is at:
+The github repository for the MoonTree project is at:
     "https://github.com/moontreeapp/moontree"
 
 MoonTree will soon be replaced with the next-generation improved wallet, so it has been removed from the Android Playstore.
